@@ -12,7 +12,7 @@ description: >-
 paginate: 5
 
 minima:
-  skin: auto 
+  skin: dark
   social_links:
     - title: GitHub
       icon: github
