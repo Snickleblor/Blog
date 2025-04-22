@@ -1,27 +1,25 @@
 ---
 layout: post
-title: Bevis av arealet av en kvadrat ved bruk av integrasjon
+title: Bevis av flateinnholdet til et areal med bruk av integrasjon
 date: 2023-11-13
 author: Simon
-categories: Matematikk 
+categories: Matematikk
 ---
-> "Simon! Integrasjon er areal under grafen av en funksjon vel?" – tydelig engasjert fremtidig matematiker 
+Integrasjon er en summering av små endringer ved hensyn til et forhold; kollektivet, altså summen kan således beskrive areal, dersom det er snakk om noe geometrisk, men den kan også beskrive den kinetisk energien til et fallende legeme. 
 
-Ja– til en viss grad så er det sant. Det er best å se på integrasjon som en summering av små endringer ved hensyn til et forhold; kollektivet, altså summen kan således beskrive areal, dersom det er snakk om noe geometrisk, men den kan også beskrive den kinetisk energien til et fallende legeme. 
-
-Det er derfor ikke riktig å bare begrense idèen om integrasjon som "areal".
+Det er derfor ikke riktig å bare begrense ideen om integrasjon som "areal".
 
 I dette innlegget, så kommer vi til å se på et eksempel til noe de fleste vil kalle for "naturlig" eller "instinktivt", men er uansett en interessant resonnement for noe vi kan kalle for "elementært" eller "barneskolematte".
 
-For en sirkel med origo som sentrum, slik at, 
+For en sirkel med origo som sentrum, dvs:
 
 $$x^2 + y^2 = r^2$$
 
-Ved lignende måte, så er ligningen av et kvadrat, 
+Ved lignende måte så kan ligningen til et kvadrat skrives slik:
 
 $$\lvert x \lvert + \lvert y \lvert = s$$
 
-Ut fra den så kan vi løse for $$\lvert x \lvert$$ og $$\lvert y \lvert$$, slik at,
+Vi løser for $\lvert x \lvert$ og $\lvert y \lvert$ 
 
 $$
 \begin{align}
@@ -30,7 +28,7 @@ $$
 \end{align}
 $$
 
-Integralet av (1) og (2) ved hensyn til dets variabel er,
+Integralet av (1) og (2) ved hensyn til dets variabel er:
 
 $$
 \begin{align}
@@ -39,7 +37,7 @@ $$
 \end{align}
 $$
 
-Husk at,
+Husk at:
 
 $$
 \begin{align}
@@ -49,7 +47,7 @@ $$
 \end{align}
 $$
 
-Regner ut integralet av (1) og (2) ved hensyn til dets variariabel, slik at, 
+Regner ut integralet av (1) og (2) ved hensyn til dets variabel, slik at: 
 
 $$
 \begin{align*}

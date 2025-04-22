@@ -1,9 +1,9 @@
 ---
-layout: post 
+layout: post
 title: Epsilondelta definisjon av grenseverdi
 date: 2023-07-7
 author: Simon
-categories: matematikk 
+categories: Matematikk
 ---
 Vi har lært om den intuitive definisjonen av en grenseverdi fra tidligere. Likevel, så forteller dette oss veldig lite over hva en grenseverdi faktisk "sier". I denne bloggen, så ønsker jeg å gjøre dette mer tydelig.
 
