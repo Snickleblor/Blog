@@ -9,7 +9,7 @@ author:
 description: >- 
   "When a student comes and asks, 'Should I become a mathematician?' the answer should be no. If you have to ask, you shouldn't even ask." - Paul Halmos
 
-paginate: 3
+paginate: 5
 
 minima:
   skin: auto 
@@ -18,7 +18,7 @@ minima:
       icon: github
       url: "https://github.com/Simon-Bakken-Jantasuk"
     - title: Stackoverflow
-      icon: stackoverflow
+      icon: stack-overflow 
       url: "https://stackoverflow.com/users/20717655/simon-bakken-jantasuk"
 
 plugins:
