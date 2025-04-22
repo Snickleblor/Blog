@@ -10,7 +10,7 @@ permalink: /meg/
 
 #### Curriculum Vitae
 
-[CV](/assets/pdf/CV.pdf)
+[CV](/assets/pdf/resume.pdf)
 
 #### Monero
 
