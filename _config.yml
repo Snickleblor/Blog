@@ -7,20 +7,23 @@ author:
   name: Simon-Bakken-Jantasuk
   email: simonbakkenjantasuk@pm.me
 description: >- 
-   "When a student comes and asks, 'Should I become a mathematician?' the answer should be no. If you have to ask, you shouldn't even ask." - Paul Halmos
+  "When a student comes and asks, 'Should I become a mathematician?' the answer should be no. If you have to ask, you shouldn't even ask." - Paul Halmos
 
 paginate: 3
 
 minima:
   skin: auto 
   social_links:
-    - { platform: github,  user_url: "https://github.com/Simon-Bakken-Jantasuk" }
-    - { platform: stackoverflow, user_url: "https://stackoverflow.com/users/20717655/simon-bakken-jantasuk" }
-    - { platform: instagram, user_url: "https://www.instagram.com/bakkenjantasuk/"}
+    - title: GitHub
+      icon: github
+      url: "https://github.com/Simon-Bakken-Jantasuk"
+    - title: Stackoverflow
+      icon: stackoverflow
+      url: "https://stackoverflow.com/users/20717655/simon-bakken-jantasuk"
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@1e8a445"
